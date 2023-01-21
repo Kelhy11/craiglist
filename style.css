@@ -1,0 +1,289 @@
+  .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    padding: 30px;
+    background: #FFFFFF;
+  }
+  .container nav{
+    margin: 40px;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 0 30px;
+    margin-left: 30px;
+  }
+  ,.container{
+    margin: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin-right: 20px;
+    padding: 0 30px;
+    display: flex;
+  }
+  .buttonnn{
+    background-color: blue;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 151px;
+    height: 26px;
+    left: 1024px;
+    top: 38px;
+    border-radius: 8px;
+    justify-items: auto;
+    margin: auto;
+  }
+  header{
+    font-family: DM Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 52px;
+    width: 161px;
+    left: 70px;
+    top: 25px;
+    border-radius: nullpx;
+    color: #0000EE;  
+  }
+
+  .text{
+    position: absolute;
+    height: 666px;
+    left: 0px;
+    top: 102px;
+    height: 666px;
+    width: 1366px;
+    left: 40%;
+    top: 60%;
+    border-radius: 0px;
+    justify-content: center;
+    transform:translate(-50, 50);
+    overflow: hidden;
+  }
+  h1{
+    color: #FFFFFF;
+    font-family: DM Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 47px;
+    width: 316px;
+    left: 525px;
+    top: 357px;
+    border-radius: nullpx;
+  }
+  .search{
+    height: 120px;
+    width: 678px;
+    left: 344px;
+    top: 429px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    position: absolute;
+    width: 678px;
+    height: 80px;
+    left: 344px;
+    top: 429px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+  }
+  .box-container h1{
+    position: absolute;
+    width: 189px;
+    height: 47px;
+    left: 588px;
+    top: 869px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    /* identical to box height */
+    color: #000000;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+  }
+  .box-container .button1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 266px;
+    height: 74px;
+    left: 70px;
+    top: 956px;
+    background: #FFFFFF;
+    border: 1px solid #0000EE;
+    border-radius: 5px;
+  }
+  body{
+    width: 100%;
+    overflow-x: hidden;
+  }
+  .box-container .button2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 266px;
+    height: 74px;
+    left: 390px;
+    top: 956px;
+    background: #FFFFFF;
+    border: 1px solid #0000EE;
+    border-radius: 5px;
+  }
+
+  .box-container .button3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 266px;
+    height: 74px;
+    left: 710px;
+    top: 956px;
+    background: #FFFFFF;
+    border: 1px solid #0000EE;
+    border-radius: 5px;
+  }
+
+  .box-container .button4{
+    box-sizing: border-box;
+    position: absolute;
+    width: 266px;
+    height: 74px;
+    left: 1030px;
+    top: 956px;
+    background: #FFFFFF;
+    border: 1px solid #0000EE;
+    border-radius: 5px;
+  }
+
+  .box-container .button5{
+    box-sizing: border-box;
+    position: absolute;
+    width: 266px;
+    height: 74px;
+    left: 70px;
+    top: 1080px;
+    background: #FFFFFF;
+    border: 1px solid #0000EE;
+    border-radius: 5px;
+  }
+
+  .box-container .button6{
+    box-sizing: border-box;
+    position: absolute;
+    width: 266px;
+    height: 74px;
+    left: 390px;
+    top: 1080px;
+    background: #FFFFFF;
+    border: 1px solid #0000EE;
+    border-radius: 5px;
+  }
+  .box-container .button7{
+    box-sizing: border-box;
+    position: absolute;
+    width: 266px;
+    height: 74px;
+    left: 710px;
+    top: 1080px;
+    background: #FFFFFF;
+    border: 1px solid #0000EE;
+    border-radius: 5px;
+  }
+
+  .box-container .button8{
+    box-sizing: border-box;
+    position: absolute;
+    width: 266px;
+    height: 74px;
+    left: 1030px;
+    top: 1080px;
+    background: #FFFFFF;
+    border: 1px solid #0000EE;
+    border-radius: 5px;
+  }
+  .box-container:hover{
+    color: #0000EE;
+  }
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .footer{
+    position: absolute;
+    width: 1366px;
+    height: 197px;
+    left: 0px;
+    top: 1289px;
+    background: darkblue;
+  }
+  .footer nav ul{
+    list-style: none;
+  margin: 0;
+  padding: 0;
+  }
+  .footer nav li{
+    display: inline-block;
+  }
+  .footer nav a{
+    color: white;
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  }
+  .container nav li a:hover{
+    color: orchid;
+  }
+  .footer nav li a:hover{
+    color: orchid;
+  }
+  .container nav ul{
+    list-style: none;
+    margin: 10px;
+    padding: 5px;
+  }
+  .container nav ul li{
+    display: inline-block;
+  }
+  .box-container .button1:hover{
+    color: orchid;
+  }
+  .box-container .button2:hover{
+    color: orchid;
+  }
+  .box-container .button3:hover{
+    color: orchid;
+  }
+  .box-container .button4:hover{
+    color: orchid;
+  }
+  .box-container .button5:hover{
+    color: orchid;
+  }
+  .box-container .button6:hover{
+    color: orchid;
+  }
+  .box-container .button7:hover{
+    color: orchid;
+  }
+  .box-container .button8:hover{
+    color: orchid;
+  }
+
+  .nav-item{
+    padding: 5px;
+    margin: auto;
+    box-align: center;
+
+  }
